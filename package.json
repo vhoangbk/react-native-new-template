@@ -4,5 +4,8 @@
   "description": "React Native Template",
   "repository": "git@github.com:vhoangbk/react-native-new-template.git",
   "author": "Hoang Nguyen <vhoangbk@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "styled-components": "^5.3.5"
+  }
 }
